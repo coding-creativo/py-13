@@ -1,7 +1,7 @@
 #Lezioni
 
 print("Benvenuti nella prima Lezione")
-# - Argomenti
+#### Argomenti
 # - Installazione Python e VSCode
 # - Introduzione a Python
 # - Stampare messaggi in output
@@ -12,3 +12,10 @@ print("Benvenuti nella prima Lezione")
 # - Casting
 # - Prendere i dati in input
 # - Operazioni aritmetiche
+
+print("Benvenuti nella seconda Lezione")
+#### Argomenti
+# - istruzioni condizionali
+# - operatori di confronto
+# - operatori logici
+# - operatori di identità
