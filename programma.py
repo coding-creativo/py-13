@@ -19,3 +19,9 @@ print("Benvenuti nella seconda Lezione")
 # - operatori di confronto
 # - operatori logici
 # - operatori di identità
+
+print("Benvenuti nella terza Lezione")
+#### Argomenti
+# - istruzioni iterative for in
+# - istruzioni iterative while
+# - break e continue
