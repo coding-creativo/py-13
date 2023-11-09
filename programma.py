@@ -25,3 +25,11 @@ print("Benvenuti nella terza Lezione")
 # - istruzioni iterative for in
 # - istruzioni iterative while
 # - break e continue
+
+print("Benvenuti nella quarta Lezione")
+# - recap cicli
+# - doppi cicli
+# - break e continue
+# - scambio di variabili
+# - eccezioni
+# - introduzione alle stringhe
