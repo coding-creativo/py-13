@@ -31,5 +31,12 @@ print("Benvenuti nella quarta Lezione")
 # - doppi cicli
 # - break e continue
 # - scambio di variabili
-# - eccezioni
-# - introduzione alle stringhe
+# - introduzione alle stringhe:
+    # - slicing
+    # - accedere ai caratteri di una stringa
+    # - lunghezza di una stringa
+    # - metodi isnumeric(), isdigit(), isdecimal()
+
+print("Benvenuti nella quinta Lezione")
+# - Recap doppi cicli
+# - Metodi delle stringhe
