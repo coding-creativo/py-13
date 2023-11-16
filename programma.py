@@ -40,3 +40,8 @@ print("Benvenuti nella quarta Lezione")
 print("Benvenuti nella quinta Lezione")
 # - Recap doppi cicli
 # - Metodi delle stringhe
+
+print("Benvenuti nella sesta Lezione")
+# - Introduzione alle liste
+# - Metodi delle liste
+# - list comprehension
