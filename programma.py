@@ -45,3 +45,8 @@ print("Benvenuti nella sesta Lezione")
 # - Introduzione alle liste
 # - Metodi delle liste
 # - list comprehension
+
+print("Benvenuti nella settima Lezione")
+# - Introduzione alle tuple
+# - Metodi delle tuple
+# - Introduzione alle funzioni
