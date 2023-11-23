@@ -50,3 +50,12 @@ print("Benvenuti nella settima Lezione")
 # - Introduzione alle tuple
 # - Metodi delle tuple
 # - Introduzione alle funzioni
+# - Passaggio di parametri
+
+print("Benvenuti nell'ottava Lezione")
+# - Funzioni - scope
+# - Variabili locali e globali
+# - Funzioni anonime
+# - Moduli e librerie
+
+
