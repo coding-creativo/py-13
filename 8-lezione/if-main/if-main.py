@@ -1,4 +1,4 @@
 import programma
 
-programma.saluta()
+# programma.saluta()
 print("Importazione completata.")

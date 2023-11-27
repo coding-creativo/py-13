@@ -58,4 +58,10 @@ print("Benvenuti nell'ottava Lezione")
 # - Funzioni anonime
 # - Moduli e librerie
 
+print("Benvenuti nella nona Lezione")
+# - Insiemi
+# - Introduzione ai Dizionari
+# - Numeri random
+# - Date
+
 
