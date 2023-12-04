@@ -64,4 +64,10 @@ print("Benvenuti nella nona Lezione")
 # - Numeri random
 # - Date
 
+print("Benvenuti nella decima Lezione")
+# - Dizionari 
+# - File
+
+
+
 
